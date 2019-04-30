@@ -5,7 +5,7 @@ Vue.use(VueI18n)
 
 const languages = [
   {value: 'en-US', label: 'English'},
-  {value: 'ko-KR', label: '한국어'},
+  {value: 'ko-KR', label: '한국어'}
 ]
 const messages = {}
 
